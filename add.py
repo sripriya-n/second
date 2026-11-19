@@ -1,7 +1,8 @@
-def add1(a,b):
-    print("Result is calculated", a+b)
+def calc(a,b):
+    print("sum is ", a+b)
     print("Updated")
-    return (c)
+    print("Product is", a*b)
+    
 
+calc(5,6)
 
-add1(5,6)
